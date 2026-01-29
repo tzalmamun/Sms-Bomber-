@@ -33,3 +33,13 @@ Copy & paste the following command:
 
 ```bash
 pkg update -y && pkg upgrade -y && pkg install python git -y && git clone https://github.com/tzalmamun/Sms-Bomber-.git && cd Sms-Bomber-
+
+
+Mamun Dv
+
+এবার Ls দেন তাপর bom.py ইন্টার করেন
+
+পরের বার অপেন করতে পথমে Ls দিবেন তারপরে cd Sms-Bomber- তারপর bom.py
+
+All Ok
+s
